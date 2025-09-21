@@ -43,7 +43,7 @@ const Workouts: React.FC = () => {
       category: 'yoga',
       rating: 4.9,
       thumbnail: 'https://images.pexels.com/photos/3822864/pexels-photo-3822864.jpeg?auto=compress&cs=tinysrgb&w=400',
-      videoId: 'v7AYKMP6rOE',
+      videoId: '2IcWJobNDck',
       description: 'ابدئي يومك بطاقة إيجابية مع تمارين اليوجا المريحة'
     },
     {
