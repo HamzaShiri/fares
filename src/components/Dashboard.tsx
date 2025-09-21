@@ -28,7 +28,7 @@ const Dashboard: React.FC<DashboardProps> = ({ setCurrentSection }) => {
       duration: '20 دقيقة',
       level: 'مبتدئ',
       thumbnail: 'https://images.pexels.com/photos/3822864/pexels-photo-3822864.jpeg?auto=compress&cs=tinysrgb&w=400',
-      videoId: 'v7AYKMP6rOE'
+      videoId: '2IcWJobNDck'
     },
     {
       id: 3,
